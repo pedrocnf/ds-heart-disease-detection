@@ -1,0 +1,10 @@
+
+catboost==1.2.2
+pandas
+scipy
+scikit-learn
+shap
+seaborn
+plotly
+
+
