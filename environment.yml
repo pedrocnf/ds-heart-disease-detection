@@ -1,0 +1,12 @@
+name: heart-disease-detection  # Nome do ambiente (pode ser personalizado)
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - catboost==1.2.2
+  - pandas
+  - scipy
+  - scikit-learn
+  - shap
+  - seaborn
+  - plotly
